@@ -15,5 +15,5 @@ model userBmi {
   weight Int
   date   DateTime @default(now())
   ip     String
-  bmi    Int
+  
 }
