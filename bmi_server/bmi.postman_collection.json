@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "7239a9d4-13fa-4a40-a5c2-59a98a4908d1",
+		"name": "bmi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "bmiinsert",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "bmishow",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
